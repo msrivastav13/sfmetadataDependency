@@ -1,0 +1,11 @@
+{
+  "commandDescription": "print a greeting and your org IDs",
+  "nameFlagDescription": "name to print",
+  "forceFlagDescription": "exxample boolean flag",
+  "errorNoOrgResults": "No results found for the org '%s'.",
+  "communityName" : "Provide API name of the community",
+  "manifestPath" : "package.xml directory",
+  "formatDescription" : "format of the output. Supported values are json/csv",
+  "bulkQuery" : "provide the query string",
+  "jobId" : "job ID of the bulk job you want to check"
+}
